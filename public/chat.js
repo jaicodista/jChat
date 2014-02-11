@@ -31,7 +31,7 @@ window.onload=function(){
 		var text=field.value;
 		 if(name== "" || name=="Server") 
 		{
-	           alert("Please Restart the application and Enter your name when asked!"); 
+	           alert("Please Restart  application and Enter your name when asked!"); 
 	        } 
 		else {
  	           var text = field.value;
